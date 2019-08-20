@@ -1,2 +1,2 @@
 # Maze Game
-A mini game built using JavaFX
+A mini game built with JavaFX
